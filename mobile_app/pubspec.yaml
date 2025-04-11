@@ -1,5 +1,4 @@
-dependencies:
-  json_annotation: ^4.8.0
+ json_annotation: ^4.8.0
   device_info_plus: ^9.0.0
   flutter_animate: ^4.0.0
   google_fonts: ^6.0.0
