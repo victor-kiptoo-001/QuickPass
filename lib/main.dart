@@ -7,6 +7,7 @@ import 'package:quickpass/l10n/app_localizations.dart';
 import 'package:quickpass/utils/offline_sync.dart';
 import 'package:provider/provider.dart';
 
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   // Initialize offline sync service
