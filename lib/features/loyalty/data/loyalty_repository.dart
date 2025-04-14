@@ -1,6 +1,5 @@
 import 'package:quickpass/api/client.dart';
 import 'package:quickpass/features/loyalty/data/models/loyalty_model.dart';
-import 'package:uuid/uuid.dart';
 
 class LoyaltyRepository {
   final ApiClient _client = ApiClient();
