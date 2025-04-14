@@ -1,0 +1,91 @@
+{
+  "@@locale": "en",
+  "appName": "QuickPass",
+  "welcomeMessage": "Welcome to QuickPass!",
+  "phoneNumber": "Phone Number",
+  "enterPhone": "Enter your phone number",
+  "requestOtp": "Request OTP",
+  "otpSent": "OTP sent to your phone",
+  "verifyOtp": "Verify OTP",
+  "enterOtp": "Enter 6-digit OTP",
+  "invalidOtp": "Invalid OTP",
+  "loginSuccess": "Login successful!",
+  "logout": "Logout",
+  "cart": "Cart",
+  "scanItem": "Scan Item",
+  "addToCart": "Add to Cart",
+  "updateCart": "Update Cart",
+  "cartEmpty": "Your cart is empty",
+  "cartItemAdded": "Item added to cart",
+  "cartLimitReached": "Cart limit of {limit} items reached",
+  "@cartLimitReached": {
+    "placeholders": {
+      "limit": {}
+    }
+  },
+  "totalPrice": "Total: KSH {amount}",
+  "@totalPrice": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "proceedToPay": "Proceed to Pay",
+  "payment": "Payment",
+  "cartSummary": "Cart Summary",
+  "total": "Total",
+  "selectPaymentMethod": "Select Payment Method",
+  "mpesa": "M-PESA",
+  "card": "Card",
+  "loyaltyPoints": "Loyalty Points",
+  "cardNumber": "Card Number",
+  "expiry": "Expiry",
+  "cvv": "CVV",
+  "pointsToRedeem": "Points to Redeem",
+  "payNow": "Pay Now",
+  "errorPayment": "Payment failed: {message}",
+  "@errorPayment": {
+    "placeholders": {
+      "message": {}
+    }
+  },
+  "exitVerification": "Exit Verification",
+  "showQrToExit": "Show this QR code to exit",
+  "timeLeft": "Time left: {time}",
+  "@timeLeft": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+  "qrExpired": "QR code expired",
+  "errorFetchingQr": "Failed to fetch QR code",
+  "shareReceipt": "Share Receipt",
+  "downloadReceipt": "Download Receipt",
+  "shareReceiptMessage": "Here is your QuickPass receipt: {url}",
+  "@shareReceiptMessage": {
+    "placeholders": {
+      "url": {}
+    }
+  },
+  "receiptDownloaded": "Receipt downloaded: {url}",
+  "@receiptDownloaded": {
+    "placeholders": {
+      "url": {}
+    }
+  },
+  "errorSharingReceipt": "Failed to share receipt",
+  "errorDownloadingReceipt": "Failed to download receipt",
+  "needHelp": "Need help? Contact support",
+  "contactSupport": "Support contact coming soon",
+  "retry": "Retry",
+  "loyaltyPoints": "Loyalty Points",
+  "yourPoints": "Your Points",
+  "pointsBalance": "Points Balance",
+  "redeem": "Redeem",
+  "pointsHistory": "Points History",
+  "pointsEarned": "Points Earned",
+  "pointsRedeemed": "Points Redeemed",
+  "noHistory": "No points history yet",
+  "errorFetchingLoyalty": "Failed to fetch loyalty data",
+  "usePointsInPayment": "Select loyalty points in payment screen",
+  "refresh": "Refresh"
+}
