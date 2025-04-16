@@ -54,8 +54,8 @@ class QuickPassApp extends StatelessWidget {
       ],
       supportedLocales: const [
         Locale('en', ''), // English
-        Locale('sw', ''), // Swahili
       ],
+      locale: const Locale('en', ''), // Enforce English
       home: Animate(
         effects: const [
           FadeEffect(duration: Duration(milliseconds: 800)),
